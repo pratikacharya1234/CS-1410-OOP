@@ -6,7 +6,10 @@ using namespace std;
 int main(){
 
     
-    int x1 = 0, x2 = 0, y1 = 0, y2 = 0;
+    int x1 = 0;
+    int x2 = 0;
+    int y1 = 0;
+    int y2 = 0;
     cout <<"\n Enter the cordinate of points 1";
     cin >> x1 >> y1;
 
