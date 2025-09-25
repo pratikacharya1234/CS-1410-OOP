@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+
     int input1, input2;
     char user;
     double result = 0;
@@ -48,6 +49,5 @@ int main() {
     else {
         cout << "Invalid choice! Please select a, s, m, or d." << endl;
     }
-
     return 0;
 }
