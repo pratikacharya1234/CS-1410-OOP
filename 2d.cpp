@@ -1,3 +1,4 @@
+//vector <int> scores = { 8,5,6,2,11} to {11, 2, 6, 5, 8}
 #include <iostream>
 #include <vector>
 #include <algorithm>
